@@ -22,5 +22,5 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '>= 2.3.0'
 
   s.add_dependency 'activesupport', '>= 3.0.0'
-  s.add_dependency 'faraday', '>= 0.15.4'
+  s.add_dependency 'faraday', '~> 0.9.0'
 end
